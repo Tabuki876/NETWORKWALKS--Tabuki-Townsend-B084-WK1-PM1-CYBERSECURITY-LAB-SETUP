@@ -96,6 +96,12 @@ The network connection was then restarted/rebooted and connectivity tested again
 4.	Documentation: Learned that documenting commands, configurations, screenshots, problems, and solutions is an essential part of a professional cybersecurity project.
 
 
+<img width="1797" height="932" alt="Screenshot 2026-10-29 140155" src="https://github.com/user-attachments/assets/832a226d-019d-4935-8ac2-f2392e260fe8" />
+
+
+<img width="1822" height="911" alt="Screenshot 2026-10-29 140138" src="https://github.com/user-attachments/assets/fe3b1151-b3db-4bcc-99b9-d85011218920" />
+
+
 👤 Author & Project Information
 •	Author: Tabuki Townsend (Batch 84) 
 •	Program Name: Cybersecurity at Networkwalks
